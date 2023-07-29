@@ -4,13 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Hello everyone, I am sharing my app with you again, which I am still developing. I have designed login and signup page layouts, a home page, and a few in-app pages. Normally, in my app, Firebase will handle the Auth processes, but I haven't added them to the app's code yet due to some Firebase-related issues. However, the Firebase code is ready and waiting; I will add it as soon as possible.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Speaking of our application, it is a banking app. In this app, I am planning to add features such as money transfers, currency operations, and many other functionalities. Please stay tuned. Best regards.
